@@ -8,7 +8,7 @@ description: "Set up a virtual network with two virtual machines and a load bala
 urlFragment: "https://github.com/MicrosoftDocs/mslearn-host-domain-azure-dns"
 ---
 
-# Official Microsoft Sample
+# Official Microsoft Simple
 
 <!-- 
 Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
